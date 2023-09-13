@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumir04&label=Profile%20views&color=0e75b6&style=flat" alt="sumir04" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumir04" alt="sumir04" /></a> </p>
-
 - 🔭 I’m currently working on [as a Content Creator @ YouTube](https://www.youtube.com/c/HELLOOFortnite)
 
 - ✨My First Data Analysis Project [Amazon Spending Dashboard](https://www.novypro.com/project/amazon-spending-analysis)
@@ -15,7 +13,7 @@
 
 - 📽️ I regularly upload video on [https://www.youtube.com/c/HELLOOFortnite](https://www.youtube.com/c/HELLOOFortnite)
 
-- 💬 Ask me about **Data Analysis, Data Visualisation, SQL, Power Bi, Advanced Excel**
+- 💬 Ask me about **Data Analysis,Data Visualisation,SQL,Power Bi,Advanced Excel**
 
 - 📫 How to reach me **mandalsumir105@gmail.com**
 
@@ -32,4 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumir04&show_icons=true&locale=en&layout=compact" alt="sumir04" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumir04&show_icons=true&locale=en" alt="sumir04" /></p>
-
