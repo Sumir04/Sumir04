@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating YouTube Video Content Since 2019<br>📚 I'm currently looking for a career change to Data Analyst / Business Analyst<br>🛠️ Analytical Tool I am familiar with Advanced Excel, Power Bi<br>📊Visualisation Tool I am familiar with Microsoft Power BI, Python's Matplotlib & Seaborn</p>
+<p align="left">✨ Creating YouTube Video Content Since 2019<br>📚 I'm currently looking for a career change to Data Analyst / Business Analyst<br>🛠️ Analytical Tool I am familiar with Advanced Excel, Power Bi<br>📊Visualisation Tool I am familiar with Microsoft Power BI, Python's Matplotlib & Seaborn<br>✨Checkout my projects at: https://www.novypro.com/profile_projects/sumir<br></p>
 
 ###
 
