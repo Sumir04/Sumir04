@@ -63,6 +63,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Sumir04/Sumir04/output/snake.svg" alt="Snake animation" />
-
 ###
