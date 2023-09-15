@@ -21,9 +21,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sumir04.Sumir04&"  />
-</div>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Sumir04.Sumir04&"  />
 
 ###
 
@@ -37,7 +35,7 @@
 
 <br clear="both">
 
-<h4 align="left">I'm Sumir Kumar Mandal from India<br><br>🔭 I’m working as a YouTube content creator with 87k+ Subscribers, bringing technical expertise in YouTube Analytics, SEO, and data-driven decision-making.<br>📚 With over 4 years of YouTube content creation, I've uploaded 1800+ videos, conducted 20+ live streams, and garnered 36M+ lifetime views. My achievements showcase my dedication to content excellence.<br>⚡I hold a strong background in Postgresql, Microsoft Excel, Power BI, and Python. Outside of work, I'm passionate about solving problems and uncovering insights from data.<br>🎯Currently, I'm focused on transitioning into a Data Analyst or Business Analyst role and am open to collaboration opportunities that align with my skill set and goals.<br>🫱🏽‍🫲🏽 Let's connect! Feel free to reach out for potential collaborations or discussions: mandalsumir105@gmail.com</h4>
+<h3 align="left">I'm Sumir Kumar Mandal from India<br><br>🔭 I’m working as a YouTube content creator with 87k+ Subscribers, bringing technical expertise in YouTube Analytics, SEO, and data-driven decision-making.<br>📚 With over 4 years of YouTube content creation, I've uploaded 1800+ videos, conducted 20+ live streams, and garnered 36M+ lifetime views. My achievements showcase my dedication to content excellence.<br>⚡I hold a strong background in Postgresql, Microsoft Excel, Power BI, and Python. Outside of work, I'm passionate about solving problems and uncovering insights from data.<br>🎯Currently, I'm focused on transitioning into a Data Analyst or Business Analyst role and am open to collaboration opportunities that align with my skill set and goals.<br>🫱🏽‍🫲🏽 Let's connect! Feel free to reach out for potential collaborations or discussions: mandalsumir105@gmail.com</h3>
 
 ###
 
@@ -61,11 +59,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
 </div>
-
-###
-
-###
 
 ###
