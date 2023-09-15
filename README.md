@@ -48,6 +48,12 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
+  <img src = "https://cdn.iconscout.com/icon/free/png-512/free-microsoft-excel-1868958-1583122.png?f=avif&w=256" height = "40" alt ="Excel logo" />
+  <img width="12" />
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height = "40" alt ="Power Bi logo" />
+  <img width="12" />
+  <img src = "https://cdn.iconscout.com/icon/free/png-512/free-microsoft-powerpoint-1868950-1583114.png?f=avif&w=256" height = "40" alt ="PowerPoint logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
@@ -55,6 +61,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
 </div>
 
 ###
