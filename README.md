@@ -1,10 +1,4 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
-
-###
-
-<div align="center">
   <a href="www.linkedin.com/in/sumirmandal" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -21,11 +15,7 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Sumir04.Sumir04&"  />
-
-###
-
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -33,9 +23,13 @@
 
 ###
 
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Sumir04.Sumir04&"  />
+
+###
+
 <br clear="both">
 
-<h3 align="left">I'm Sumir Kumar Mandal from India<br><br>🔭 I’m working as a YouTube content creator with 87k+ Subscribers, bringing technical expertise in YouTube Analytics, SEO, and data-driven decision-making.<br>📚 With over 4 years of YouTube content creation, I've uploaded 1800+ videos, conducted 20+ live streams, and garnered 36M+ lifetime views. My achievements showcase my dedication to content excellence.<br>⚡I hold a strong background in Postgresql, Microsoft Excel, Power BI, and Python. Outside of work, I'm passionate about solving problems and uncovering insights from data.<br>🎯Currently, I'm focused on transitioning into a Data Analyst or Business Analyst role and am open to collaboration opportunities that align with my skill set and goals.<br>🫱🏽‍🫲🏽 Let's connect! Feel free to reach out for potential collaborations or discussions: mandalsumir105@gmail.com</h3>
+<h3 align="left">I'm Sumir Kumar Mandal from Kolkata, India<br><br>🔭 I’m working as a SDET (Software Development in Test) and also maintaining a YouTube Channel with 87k Subscribers bringing Technical and Creative expertise together.<br>⚡I hold a strong background in Manual testing, Automation Testing using Selenium with Java, Worked on BDD framework using Cucumber and maintained report on Azure DevOps and done database handling using SQL.<br>📚 With over 4 years of YouTube content creation, I've uploaded 1800+ videos, conducted 20+ live streams, and garnered 36M+ lifetime views. My achievements showcase my dedication to content excellence.<br>🎯Currently, I'm focused on upskilling my Automation Testing skill by learing new frameworks and new testing methods.<br>🫱🏽‍🫲🏽 Let's connect! Feel free to reach out for potential collaborations or discussions: mandalsumir105@gmail.com</h3>
 
 ###
 
@@ -44,21 +38,27 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src = "https://cdn.iconscout.com/icon/free/png-512/free-microsoft-excel-1868958-1583122.png?f=avif&w=256" height = "40" alt ="Excel logo" />
+  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40" alt="selenium logo"  />
   <img width="12" />
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height = "40" alt ="Power Bi logo" />
+  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="40" alt="azure logo"  />
   <img width="12" />
-  <img src = "https://cdn.iconscout.com/icon/free/png-512/free-microsoft-powerpoint-1868950-1583114.png?f=avif&w=256" height = "40" alt ="PowerPoint logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="40" alt="cucumber logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40" alt="photoshop logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
 </div>
 
 ###
